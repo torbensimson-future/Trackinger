@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0D1117</color>
+    <color name="bg">#0D1117</color>
+    <color name="surface">#161B22</color>
+    <color name="surface2">#1C2230</color>
+    <color name="line">#2A3140</color>
+    <color name="ink">#E6EDF3</color>
+    <color name="muted">#8B97A7</color>
+    <color name="accent">#F4A02B</color>
+    <color name="ok">#2EA043</color>
+    <color name="okBg">#13361F</color>
+    <color name="warn">#DA3633</color>
+    <color name="warnBg">#3A1413</color>
+    <color name="neutral">#21262D</color>
+    <color name="info">#388BFD</color>
+</resources>
